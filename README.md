@@ -3,7 +3,7 @@
 <img src="https://66.media.tumblr.com/32076a506a71538446fe13d89a0023fb/tumblr_n1k5egtCV71ttj3v1o1_r1_1280.gif">
 
 <style>
-img: { 
+img { 
     border-radius: 50%;
 }
 </style>
